@@ -11,7 +11,7 @@
 - overall redesign entire code that help reusability. 
 - disclaimer: currently working on this branch so there may be some bug related to endpoint, and working on cart logic.
   
-## Quickstart1
+## Quickstart
 
 1. Clone the repository
 2. Open the project in your IDE: IntelliJ IDEA (recommended) or Eclipse
